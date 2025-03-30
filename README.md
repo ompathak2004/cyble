@@ -1,3 +1,17 @@
+## 📸 Screenshots
+
+### Hero Section
+![Home Page](./public/screenshots/hero-section.png)
+
+### Solutions Section
+![Solutions Section](./public/screenshots/solutions-section.png)
+
+### Why Cyble Section
+![ Why Cyble Section](./public/screenshots/why-cyble.png)
+
+### Footer Section
+![ Why Cyble Section](./public/screenshots/why-cyble.png)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
